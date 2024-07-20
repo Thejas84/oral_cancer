@@ -1,1 +1,1 @@
-# oral_cancer
+# Oral_cancer_prediction

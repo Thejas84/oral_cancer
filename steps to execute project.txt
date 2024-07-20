@@ -1,0 +1,1 @@
+steps to execute project =>    first=run the backend("cd backend,npm start")   ,second run the frontend("cd frontend ,npm start")  ,run the main.c ("run ");  ,fourth step go to the frontend given URL
