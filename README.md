@@ -8,6 +8,9 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Features**
 
 **Hybrid Model:** Combines CNNs for spatial feature extraction and RNNs for sequential pattern analysis to predict oral cancer from histopathological images.
+
 **EfficientNet Backbone:** Utilizes EfficientNet as a pre-trained base model for feature extraction, followed by additional layers for robust prediction.
+
 **Real-Time Prediction:** Capable of real-time prediction with a user-friendly interface for medical professionals.
+
 **Data Management:** Securely stores patient data, including medical images, in a database with efficient retrieval and management capabilities.
