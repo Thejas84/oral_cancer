@@ -26,7 +26,7 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Fully Connected Layers:** Includes dense layers with dropout for regularization, optimized with Adam optimizer.
 
 **Final Output:** Softmax activation function provides the probability distribution over the classes for classification.
-![Uploading Screenshot (251).png…]()
+![Screenshot (251)](https://github.com/user-attachments/assets/fdfd7aa5-bb3d-4778-8810-046882b6268b)
 
 <br><br>
 **Presentation**
