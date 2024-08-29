@@ -26,6 +26,8 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Fully Connected Layers:** Includes dense layers with dropout for regularization, optimized with Adam optimizer.
 
 **Final Output:** Softmax activation function provides the probability distribution over the classes for classification.
+![Uploading Screenshot (251).png…]()
+
 <br><br>
 **Presentation**
 The project is presented as part of a VI Semester Mini Project Evaluation in the Department of Computer Science and Engineering, focusing on the integration of advanced machine learning techniques for improving oral cancer detection.
@@ -88,4 +90,6 @@ After that run the frontent using npm start.
 **Results**
 
 The proposed hybrid model achieved an accuracy of 98.29% over 36 epochs, outperforming other models such as AlexNet-ELM, TBNet, and standalone CNN models. The project demonstrates the enhanced predictive capability of combining CNNs and RNNs, particularly for complex medical image analysis tasks.
+
+
 
