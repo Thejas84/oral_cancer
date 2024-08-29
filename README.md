@@ -7,6 +7,8 @@ Oral Cancer Prediction Using Hybridized Neural Network Model
 This project aims to develop a hybridized neural network model integrating Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) for the accurate prediction and classification of oral cancer. By leveraging the spatial feature extraction capabilities of CNNs and the sequential pattern recognition strengths of RNNs, the model enhances the early detection and treatment outcomes for oral cancer, ultimately improving patient care.
 
 
+
+
 **Features**
 
 **Hybrid Model:** Combines CNNs for spatial feature extraction and RNNs for sequential pattern analysis to predict oral cancer from histopathological images.
@@ -16,6 +18,8 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Real-Time Prediction:** Capable of real-time prediction with a user-friendly interface for medical professionals.
 
 **Data Management:** Securely stores patient data, including medical images, in a database with efficient retrieval and management capabilities.
+
+
 
 
 **System Architecture**
@@ -30,6 +34,8 @@ This project aims to develop a hybridized neural network model integrating Convo
 
 **Presentation**
 The project is presented as part of a VI Semester Mini Project Evaluation in the Department of Computer Science and Engineering, focusing on the integration of advanced machine learning techniques for improving oral cancer detection.
+
+
 
 
 **Getting Started**
@@ -59,6 +65,8 @@ pathlib
 shutil
 
 
+
+
 **Installation**
 
 Clone the repository:git clone https://github.com/yourusername/oral-cancer-prediction.git
@@ -74,6 +82,8 @@ Run backend first using npm start (we have reat technology).
 After that run the frontent using npm start.
 
 
+
+
 **Usage**
 
 **Data Input and Preprocessing:** Upload and preprocess histopathological images.
@@ -83,6 +93,8 @@ After that run the frontent using npm start.
 **Prediction**: Use the trained model to predict and classify new images in real-time.
 
 **User Interface:** Access the web-based interface to upload images and view prediction results.
+
+
 
 
 **Results**
