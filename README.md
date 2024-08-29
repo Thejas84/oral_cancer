@@ -95,6 +95,8 @@ The proposed hybrid model achieved an accuracy of 98.29% over 36 epochs, outperf
 ![Picture1](https://github.com/user-attachments/assets/880436af-4f68-4668-ab33-90a19cdcb53f)
 <br><br>
 
-![Screenshot (250)](https://github.com/user-attachments/assets/5403f493-9eed-4fdb-881f-04540d814eed)
+![nPicture2](https://github.com/user-attachments/assets/f63b5000-04eb-4bea-ae55-b568e04abb92)
 
 ![Picture2](https://github.com/user-attachments/assets/6c86e540-44b1-4233-a1ac-db7498b4bd6f)
+
+[final_review_ppt[1]-Only.pptx](https://github.com/user-attachments/files/16803103/final_review_ppt.1.-Only.pptx)
