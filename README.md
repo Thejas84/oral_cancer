@@ -17,7 +17,6 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Data Management:** Securely stores patient data, including medical images, in a database with efficient retrieval and management capabilities.
 
 <br><br>
-
 **System Architecture**
 
 **EfficientNetB3** Pre-trained Model: Used as the base model for feature extraction.
@@ -32,7 +31,6 @@ This project aims to develop a hybridized neural network model integrating Convo
 The project is presented as part of a VI Semester Mini Project Evaluation in the Department of Computer Science and Engineering, focusing on the integration of advanced machine learning techniques for improving oral cancer detection.
 
 <br><br>
-
 **Getting Started**
 
 **Prerequisites**
@@ -58,6 +56,8 @@ cv2
 pathlib
 
 shutil
+
+
 <br><br>
 **Installation**
 
@@ -85,8 +85,6 @@ After that run the frontent using npm start.
 **User Interface:** Access the web-based interface to upload images and view prediction results.
 
 <br><br>
-
-
 **Results**
 
 The proposed hybrid model achieved an accuracy of 98.29% over 36 epochs, outperforming other models such as AlexNet-ELM, TBNet, and standalone CNN models. The project demonstrates the enhanced predictive capability of combining CNNs and RNNs, particularly for complex medical image analysis tasks.
