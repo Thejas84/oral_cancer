@@ -92,5 +92,9 @@ After that run the frontent using npm start.
 
 The proposed hybrid model achieved an accuracy of 98.29% over 36 epochs, outperforming other models such as AlexNet-ELM, TBNet, and standalone CNN models. The project demonstrates the enhanced predictive capability of combining CNNs and RNNs, particularly for complex medical image analysis tasks.
 
+![Picture1](https://github.com/user-attachments/assets/880436af-4f68-4668-ab33-90a19cdcb53f)
+<br><br>
+**comparisions:**
+![Screenshot (250)](https://github.com/user-attachments/assets/5403f493-9eed-4fdb-881f-04540d814eed)
 
-
+![Picture2](https://github.com/user-attachments/assets/6c86e540-44b1-4233-a1ac-db7498b4bd6f)
