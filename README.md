@@ -33,6 +33,8 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Presentation**
 The project is presented as part of a VI Semester Mini Project Evaluation in the Department of Computer Science and Engineering, focusing on the integration of advanced machine learning techniques for improving oral cancer detection.
 
+[final_review_ppt[1]-Only.pptx](https://github.com/user-attachments/files/16803103/final_review_ppt.1.-Only.pptx)
+
 <br><br>
 **Getting Started**
 
@@ -99,4 +101,3 @@ The proposed hybrid model achieved an accuracy of 98.29% over 36 epochs, outperf
 
 ![Picture2](https://github.com/user-attachments/assets/6c86e540-44b1-4233-a1ac-db7498b4bd6f)
 
-[final_review_ppt[1]-Only.pptx](https://github.com/user-attachments/files/16803103/final_review_ppt.1.-Only.pptx)
