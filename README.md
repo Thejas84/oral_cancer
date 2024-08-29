@@ -9,6 +9,9 @@ This project aims to develop a hybridized neural network model integrating Convo
 
 
 
+
+
+
 **Features**
 
 **Hybrid Model:** Combines CNNs for spatial feature extraction and RNNs for sequential pattern analysis to predict oral cancer from histopathological images.
