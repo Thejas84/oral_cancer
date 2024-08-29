@@ -14,3 +14,10 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Real-Time Prediction:** Capable of real-time prediction with a user-friendly interface for medical professionals.
 
 **Data Management:** Securely stores patient data, including medical images, in a database with efficient retrieval and management capabilities.
+
+**System Architecture**
+
+**EfficientNetB3** Pre-trained Model: Used as the base model for feature extraction.
+**LSTM Layer:** Processes sequences of features for temporal dependency capture.
+**Fully Connected Layers:** Includes dense layers with dropout for regularization, optimized with Adam optimizer.
+**Final Output:** Softmax activation function provides the probability distribution over the classes for classification.
