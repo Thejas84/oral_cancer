@@ -16,7 +16,6 @@ This project aims to develop a hybridized neural network model integrating Convo
 
 **Data Management:** Securely stores patient data, including medical images, in a database with efficient retrieval and management capabilities.
 
-
 <br><br>
 
 **System Architecture**
@@ -28,10 +27,9 @@ This project aims to develop a hybridized neural network model integrating Convo
 **Fully Connected Layers:** Includes dense layers with dropout for regularization, optimized with Adam optimizer.
 
 **Final Output:** Softmax activation function provides the probability distribution over the classes for classification.
-
+<br><br>
 **Presentation**
 The project is presented as part of a VI Semester Mini Project Evaluation in the Department of Computer Science and Engineering, focusing on the integration of advanced machine learning techniques for improving oral cancer detection.
-
 
 <br><br>
 
@@ -60,10 +58,7 @@ cv2
 pathlib
 
 shutil
-
-
 <br><br>
-
 **Installation**
 
 Clone the repository:git clone https://github.com/yourusername/oral-cancer-prediction.git
@@ -79,8 +74,6 @@ Run backend first using npm start (we have reat technology).
 After that run the frontent using npm start.
 
 <br><br>
-
-
 **Usage**
 
 **Data Input and Preprocessing:** Upload and preprocess histopathological images.
